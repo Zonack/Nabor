@@ -1,0 +1,61 @@
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  a:hover {
+    background-color: #45a049;
+  }
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+.vx {
+  margin: 20px 20px;
+}
+  input[type="file"], textarea {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
